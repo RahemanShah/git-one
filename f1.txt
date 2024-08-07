@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 
 
 new line for stash
+=======
+this is my line
+>>>>>>> Stashed changes
